@@ -11,10 +11,26 @@ First got clean combined data.
 ![image](https://user-images.githubusercontent.com/79819331/120251473-9e5c8300-c24f-11eb-8998-e71ecd21cb9f.png)
 
 
-Get summary statistics of all drug treated mice tumor volume.
+Get summary statistics of all drugs treated mice tumor volume.
 
 
 ![image](https://user-images.githubusercontent.com/79819331/120251598-0ad78200-c250-11eb-9d1f-08ec5f702919.png)
 
+
+
+Number of mice treated by all different drugs.
+
+
+
+![image](https://user-images.githubusercontent.com/79819331/120251732-728dcd00-c250-11eb-86a6-f81ab3531b32.png)
+
+
+Male mice number versus Female mice number.
+
+
+![image](https://user-images.githubusercontent.com/79819331/120251859-cb5d6580-c250-11eb-9d9e-fb7522cac783.png)
+
+
+Final tumor volume of mice treated with 4 drugs: Capomulin, Ramicane, Infubinol, and Ceftamin.
 
 
