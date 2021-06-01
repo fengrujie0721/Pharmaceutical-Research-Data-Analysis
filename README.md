@@ -19,7 +19,7 @@ Get summary statistics of all drugs treated mice tumor volume.
 
 
 
-Number of mice treated by all different drugs.
+Number of mice treated by all different drugs. Mice are almost evenly distributed to different drug groups.
 
 
 
