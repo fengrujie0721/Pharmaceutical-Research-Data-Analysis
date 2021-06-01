@@ -26,7 +26,7 @@ Number of mice treated by all different drugs.
 ![image](https://user-images.githubusercontent.com/79819331/120251732-728dcd00-c250-11eb-86a6-f81ab3531b32.png)
 
 
-Male mice number versus Female mice number.
+Male mice number versus Female mice number. Male mouse number and female mouse number are almost the same.
 
 
 ![image](https://user-images.githubusercontent.com/79819331/120251859-cb5d6580-c250-11eb-9d9e-fb7522cac783.png)
