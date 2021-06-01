@@ -6,7 +6,7 @@ Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent eff
 
 
 
-First got clean combined data.
+First got cleaned and combined data.
 
 
 ![image](https://user-images.githubusercontent.com/79819331/120251473-9e5c8300-c24f-11eb-8998-e71ecd21cb9f.png)
