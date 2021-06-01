@@ -53,10 +53,8 @@ Three observations:
    1.Male mouse number and female mouse number are almost the same.
     
     
-    2.Capomulin and Ramicane have similar effects on tumor in mice in terms of final tumor volume.
+   2.Capomulin and Ramicane have similar effects on tumor in mice in terms of final tumor volume.
     
     
-    
-    3.For mice treated with Capomulin, the average tumor volume is related to mouse weight. 
-      The higher the mouse weight, the larger the average tumor volume.
+   3.For mice treated with Capomulin, the average tumor volume is related to mouse weight. The higher the mouse weight, the larger the average tumor volume.
 
