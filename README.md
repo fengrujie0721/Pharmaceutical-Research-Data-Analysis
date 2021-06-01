@@ -31,6 +31,18 @@ Male mice number versus Female mice number.
 ![image](https://user-images.githubusercontent.com/79819331/120251859-cb5d6580-c250-11eb-9d9e-fb7522cac783.png)
 
 
+
+
+
 Final tumor volume of mice treated with 4 drugs: Capomulin, Ramicane, Infubinol, and Ceftamin.
+
+
+
+
+![image](https://user-images.githubusercontent.com/79819331/120251980-2f802980-c251-11eb-831b-5b58235b5bc8.png)
+
+
+
+Average tumor volume and weight of mice treated with Capomulin.
 
 
